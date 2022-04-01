@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "name": "rimworldsaveedit",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrueMajner/RimWorldSaveEdit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrueMajner/RimWorldSaveEdit/issues"
+  },
+  "homepage": "https://github.com/TrueMajner/RimWorldSaveEdit#readme"
+}
