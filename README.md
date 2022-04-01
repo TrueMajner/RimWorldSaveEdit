@@ -15,6 +15,7 @@
 </p>
 
 > Will help you with editing RimWorld saves
+> Now can help you with the removing of all pawns one some type from the world (By factions)
 
 ### 🏠 [Homepage](https://github.com/TrueMajner/RimWorldSaveEdit/blob/main/README.md)
 
